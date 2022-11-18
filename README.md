@@ -18,7 +18,7 @@ As a contributor, you can make my life as a maintainer easier by:
 
 
 <!--
-**lafa0x/lafa0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lafamumin/lafa0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
