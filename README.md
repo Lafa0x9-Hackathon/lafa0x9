@@ -15,7 +15,7 @@ https://join.slack.com/t/slack-cof6199/shared_invite/zt-1k7gjy0gh-ps8u8TMDkEaVvx
 
 
 
-For what We're currently working on, check out our pinned repositories!
+For what we're currently working on, check out our pinned repositories!
 
 ### Guidelines for interaction
 
