@@ -6,9 +6,6 @@ To join our Open Source Community:
 
 https://join.skype.com/cGeHFv0Jmq7s
 
-Check this below pdf to visualize how it look like to be Frontend Enginner:
-
-https://ssomai.com.np/wp-content/uploads/2022/11/Frontend-Unicorn-v1.pdf
 
 There are some level of program which will examine to check the potential of any candidate. Also, we are provide advanced online community:
 
