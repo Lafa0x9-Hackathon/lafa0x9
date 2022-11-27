@@ -7,7 +7,7 @@ Company Name: SSO-M-AI(SOMAI) GeometryCraft Development & Consultancy
 3. Last but not least What you understand drop all your QA ( Question/Answer)
 
 
-Q.2. Discuss about history/future of this 21st Century World with the help of Ancient Sanskrit, Pseudo/Modern Science, Computing, Internet & Old & New Technology < Letcture: 10-20 Mintue >
+Q.2. Discuss about history/future of this 21st Century with the help of Ancient Sanskrit, Pseudo/Modern Science, Computing, Internet & Old & New Technology < Letcture: 10-20 Mintue >
 
 Q.3. Basic foundation of the virtual world
      
