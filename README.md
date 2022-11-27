@@ -10,7 +10,7 @@ Check this below pdf to visualize how it look like to be Frontend Enginner:
 
 https://ssomai.com.np/wp-content/uploads/2022/11/Frontend-Unicorn-v1.pdf
 
-There are some level of program which will examine to check the potential of any candidate. Also, we are providing advanced online community:
+There are some level of program which will examine to check the potential of any candidate. Also, we are provide advanced online community:
 
 https://join.slack.com/t/slack-cof6199/shared_invite/zt-1k7gjy0gh-ps8u8TMDkEaVvx1EBC179A
 
