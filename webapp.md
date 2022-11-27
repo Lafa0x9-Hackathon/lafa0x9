@@ -13,6 +13,14 @@ Here is the Documentation
 
 https://ultimatefosters.com/docs/ultimatepos
 
+What will you learn
+---------------------
+
+1. Front End & Backend Design & Development(D&D)
+2. Database Design & Development(D&D)
+3. Security Design & Development(D&D)
+4. Personal Development & Well-Design Mindset(D&D)
+
 
 
 
