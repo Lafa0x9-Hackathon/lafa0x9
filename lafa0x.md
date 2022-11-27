@@ -15,7 +15,7 @@ Q.3. Basic foundation of the virtual world
      2. Front End & Backend Design & Development(D&D)
      3. Database Design & Development(D&D)
      4. Security Design & Development(D&D)
-     5. Personal Design & Development(D&D)
+     5. Personal Development & Well-Design Mindset(D&D)
     
 
 
