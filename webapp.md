@@ -8,7 +8,7 @@ Who We Are
 
 This WebApp is a brand of The Web SSO-M-AI. We are committed to providing the Best quality Application which helps you to simplify your business.
 
-Here is the Documentation
+Here is the documentation
 ----------------------------
 
 https://ultimatefosters.com/docs/ultimatepos
