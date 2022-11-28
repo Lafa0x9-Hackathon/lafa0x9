@@ -1,4 +1,4 @@
-Project Name: WebApp SSO-M-AI 
+Project Name: Web & Mobile App SSO-M-AI 
 
 Development URL: https://webapp.surendrakumarsomai.com.np/
 
