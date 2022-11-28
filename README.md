@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-We're GeometryCraft D&D Community - Full Stack Enthusiast. 
+We're GeometryCraft Community - Full Stack Enthusiast. 
 
 To join our Open Source Community:
 
