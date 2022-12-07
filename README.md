@@ -2,8 +2,6 @@
 
 We're GeometryCraft Community - Full Stack Enthusiast. 
 
-<p> <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/ing/the-book-of-secret-knowledge-preview.png" alt="Master" /> </p>
-
 <p align="center"><i> Knowledge is powerful, be careful how you use it!</i›"<p>
 
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, businesses, blogs, hacks, one-liners, cli/web tools, and more.</h4>
