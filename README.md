@@ -2,7 +2,7 @@
 
 We're GeometryCraft Community - Full Stack Enthusiast. 
 
-<p> <img href="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/ing/the-book-of-secret-knowledge-preview.png" alt="Master" /> </p>
+<p> <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/ing/the-book-of-secret-knowledge-preview.png" alt="Master" /> </p>
 
 <p align="center"><i> Knowledge is powerful, be careful how you use it!</i›"<p>
 
