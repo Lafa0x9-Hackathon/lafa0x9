@@ -9,7 +9,8 @@ We are committed to providing the Best quality education which helps you to simp
 
 What will you learn
 --------------------
-4. Front End & Backend Design & Development(D&D)
-5. Database Design & Development(D&D)
-6. Security Design & Development(D&D)
-7. Personal Development & Well-Design Mindset(D&D)
+
+Discuss about reality, things that we see, feel, taste & smell. 
+Critical Thinking, Think & Grow Rich
+Coginitive, memory power & rational/irrational processing, decision making programming 
+
