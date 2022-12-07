@@ -1,26 +1,11 @@
-Q.1. Solve this riddle using below algorithm to know about Level 0x(lafa0x):
+So far all with small group and have worked so hard, day and night on this project for few years, gave our heart and soul to it
 
-Company Name: SSO-M-AI(SOMAI) GeometryCraft Development & Consultancy
+Now it's time to take that work even far, the Goals are big and to reach those goals we need your support.
 
-1. Find this above company name @ google, google map etc
-2. Find company website & Go to Advanced Eat Sleep Code Repeat Project Website URL, Read them all 
-3. Last but not least What you understand drop all your QA ( Question/Answer)
+We need to build a team, a team of smart people and language experts. The project is highly complex and without a good team and experts the Goals cannot be achieved.
 
+But with your support, were very confident we can achieve all the unimaginable Goals. What has never happened before, has happened now. and this project will change everything around us and the World with your support.
 
-Q.2. Discuss about history/future of this 21st Century with the help of Ancient Sanskrit, Pseudo/Modern Science, Computing, Internet & Old & New Technology < Letcture: 10-20 Mintue >
+Support in any form is appreciated, either sharing this project, becoming a member with which you will get the latest updates and insight of development and a chance to be a part of the team, or by sponsoring the project.
 
-Q.3. Basic foundation of the virtual world
-     
-     1. Protoyping, White Paper
-     2. Front End & Backend Design & Development(D&D)
-     3. Database Design & Development(D&D)
-     4. Security Design & Development(D&D)
-     5. Personal Development & Well-Design Mindset(D&D)
-    
-
-
-
-
-Thank you
-
-Lafa Mumin (https://github.com/lafamumin)
+Your contribution is highly valuable. This project is a body and your support is the blood, every single drop of it matters. This project is the engine and your support is the fuel.
