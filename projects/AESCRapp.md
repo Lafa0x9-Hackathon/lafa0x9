@@ -1,5 +1,5 @@
 
-Project Name: Advanced Eat Sleep Code Repeat
+Project Name: Advanced Eat Sleep Code/Sales Repeat
 
 Who We Are
 -----------
