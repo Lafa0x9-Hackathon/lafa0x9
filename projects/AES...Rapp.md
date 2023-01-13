@@ -1,5 +1,5 @@
 
-Project Name: Advanced Eat Sleep Code/Sales Repeat
+Project Name: Advanced Eat Sleep Pitch/Code/Sales Repeat
 
 Who We Are
 -----------
@@ -11,6 +11,5 @@ What will you learn
 --------------------
 
 Discuss about reality, things that we see, feel, taste & smell. 
-Critical Thinking, Think & Grow Rich
-Coginitive, memory power & rational/irrational processing, decision making programming 
+Critical Thinking, Think & Grow Rich, Coginitive, Memory Power & Rational/Irrational Processing, Decision Making Algorithm/Programming 
 
