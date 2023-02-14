@@ -1,6 +1,6 @@
 Project Name: Web & Mobile App SSO-M-AI 
 
-Development URL: https://webapp.surendrakumarsomai.com.np/
+Dev URL: https://webapp.surendrakumarsomai.com.np/
 Live URL: https://webbiz.ssomai.com.np
 
 
