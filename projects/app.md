@@ -1,4 +1,4 @@
-Project Name: Web & Mobile BizApp SSO-M-AI 
+Project Name: WeBiz
 
 Dev URL: https://webapp.surendrakumarsomai.com.np/
 Live URL: https://webiz.ssomai.com.np
