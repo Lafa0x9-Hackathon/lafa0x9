@@ -7,7 +7,7 @@ Live URL: https://webiz.ssomai.com.np
 Who We Are
 --------------
 
-This WebApp is a brand of The Web SSO-M-AI. We are committed to providing the Best quality Application which helps you to simplify your business.
+This brand of The Webiz SSO-M-AI. We are committed to providing the Best quality Application which helps you to simplify your business.
 
 ERP, Stock Management, Point of Sale, and Invoicing software are solutions that are designed to help businesses streamline and automate various processes related to their operations and accounting. These solutions are typically integrated and offer a centralized platform to manage key functions such as:
 
