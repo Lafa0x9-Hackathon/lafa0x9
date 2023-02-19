@@ -1,7 +1,6 @@
 Project Name: WeBiz
 
-Dev URL: https://webapp.surendrakumarsomai.com.np/
-Live URL: https://webiz.ssomai.com.np
+Dev URL: https://webapp.surendrakumarsomai.com.np
 
 Dev URL Demo Login
 --------------
