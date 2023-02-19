@@ -3,6 +3,10 @@ Project Name: WeBiz
 Dev URL: https://webapp.surendrakumarsomai.com.np/
 Live URL: https://webiz.ssomai.com.np
 
+Dev URL Demo Login
+--------------
+username: harka
+password: harka@123
 
 Who We Are
 --------------
