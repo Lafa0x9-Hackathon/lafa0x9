@@ -1,6 +1,6 @@
 Project Name: Craft Sewa 
 
-Dev URL: https://craftapp.surendrakumarsomai.com.np/
+Dev URL: https://metalworkshop.ssomai.com.np
 Live URL: https://sewa.ssomai.com.np
 
 
