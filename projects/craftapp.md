@@ -48,6 +48,7 @@ Who are your main competitors
 
 There are many ERP solutions available in the market, and the main competitors can vary depending on the specific needs and requirements of a business. However, some of the most well-known and widely used ERP solutions include:
 
+Angi
 Sajilo Sewa 
 
 
