@@ -1,7 +1,7 @@
-Project Name: Craft Sewa 
+Project Name: Craft Sewa - Web & Mobile App
 
 Dev URL: https://metalworkshop.ssomai.com.np
-Live URL: https://sewa.ssomai.com.np
+Live URL: https://sewa.ssomai.com.np (coming soon)
 
 
 Who We Are
