@@ -13,8 +13,6 @@ Service Type Management and Invoicing software are solutions that are designed t
 
 Product & Service List Management: Enables business to keep track of their inventory levels, receive alert, manage workers transfers, and more.
 
-Invoicing: Allows businesses to create, send, and manage invoices and payments from a centralized platform.
-
 
 
 What is the main problem this app/product solves
