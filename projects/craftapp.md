@@ -7,77 +7,67 @@ Live URL: https://sewa.ssomai.com.np (coming soon)
 Who We Are
 --------------
 
-This WebApp is a brand of The Sewa SSO-M-AI. We are committed to providing the Best quality Application which helps you to simplify your business.
+This App is a brand of The Sewa SSO-M-AI. We are committed to providing the Best quality Application which helps you to book/purchase home products, services & personalAI into your life.
 
-Service Type Management and Invoicing software are solutions that are designed to help business streamline and automate various processes related to their operations. These solutions are typically integrated and offer a centralized platform to manage key functions such as:
-
-Product & Service List Management: Enables business to keep track of their inventory levels, receive alert, manage workers transfers, and more.
-
+Solutions that are designed to help customers for various daily home related to their operations lifestyle. These solutions are typically integrated and offer a centralized platform to manage key functions
 
 
 What is the main problem this app/product solves
 --------------
 
-The main problem aim to solve is to help businesses save time and increase efficiency by automating repetitive tasks and reducing manual effort. By integrating these various processes into a single platform, business can have a better view of their operations and make informed decisions. Additionally, these solutions can also help reduce errors and inconsistencies, improve accuracy, and increase visibility into key business metrics.
+The main problem that a home product/services & personalAI platform solves is the difficulty that customers face in finding and scheduling home service providers. Traditionally, this process can be time-consuming and inconvenient, requiring customers to research service providers, make phone calls, and coordinate schedules. A home services platform simplifies this process by providing a one-stop-shop where customers can easily browse and book a wide range of services, select high-quality service providers, and pay for services online. By solving this problem, a home services platform provides convenience and peace of mind for customers and helps service providers reach a broader customer base.
 
 
 
 How does your app/product solve this problem
 --------------
 
-This app can solve the problem of inefficient business processes, manual tasks, and lack of visibility into key metrics by offering a centralized platform for businesses to manage various operations. Here's how:
-
-Automation: This solutions automate repetitive and manual tasks, freeing up employees to focus on more value-adding activities.
-
-Integration: This solutions integrate different functions such as procurement, inventory management, accounting, and more, providing a single source of truth and eliminating silos.
-
-Real-time Data: provide real-time access to business data, enabling better decision-making and reducing the risk of errors.
-
-Customization: this solutions can be customized to meet the specific needs of the business, ensuring that they provide the necessary functionality and data to support business processes.
-
-Improved visibility: this solutions provide a unified view of business operations and performance, helping businesses identify areas for improvement and making informed decisions.
-
-Overall, This solution can help businesses streamline their operations, increase efficiency, and reduce costs by automating tasks, improving data accuracy, and providing better visibility into key metrics. Identify the specific future challenges and pain points faced by the business, such as manual data entry, inventory management, or invoicing. Evaluate various solutions that offer the necessary features and functionalities to address the identified challenges and implement the chosen solution by configuring it to meet the specific needs of the business and integrating it with existing systems as needed. We help to train customers/employeers on how to use the solution effectively and efficiently. This app help to monitor and measure the impact of the solution on the business and continuously refine and optimize it as needed. It is important to note that choosing and implementing an integrated solution requires careful planning, assessment, and attention to detail. Working with a knowledgeable vendor or consulting firm can help ensure a smooth and successful implementation.
+This addresses the problem of customers needing to find and schedule home service providers by providing a convenient and reliable platform for them to do so. By offering a wide range of services, partnering with high-quality service providers, and providing transparent pricing, reviews and ratings, and flexible payment options, the platform can help customers save time and hassle while feeling confident that they will receive top-notch service. By prioritizing customer support and building trust with customers, the platform can become a "need to have" for customers who want a more convenient and reliable way to take care of their home service needs.
 
 
 
 Who are your main competitors
 --------------
 
-There are many home & buildin solutions available in the market, and the main competitors can vary depending on the specific needs and requirements of a business. However, some of the most well-known and widely used solutions include:
+There are many home product/services & personalAI solutions available in the market, and the main competitors can vary depending on the specific needs and requirements of a business. However, some of the most well-known and widely used solutions include:
 
 Angi
 
 Sajilo Sewa 
 
+PersonalAI
+
 
 How does your app/product solve this problem differently than your competitors
 --------------
 
-However, it is important for business to evaluate the unique features and capabilities of different solutions and choose the one that best fits their specific needs and requirements. This may include factors such as integration with existing systems, customization options, deployment options (cloud-based vs on-premise), pricing, user experience, and more. By carefully considering these factors and evaluating the offerings of different solutions, businesses can determine which one will best help them achieve their goals and improve their operations.
+User experience: Provide a user-friendly interface and intuitive navigation to make it easy for customers to find and book the services they need. Offer personalized recommendations and a seamless booking and payment process.
+
+Quality of service providers: Partner with high-quality service providers and establish strict vetting processes to ensure that only the best providers are featured on your platform. Offer reviews and ratings to help customers make informed decisions.
+
+Range of services: Offer a wide range of services to meet the needs of customers, from basic home repairs to more specialized services like home cleaning, landscaping, and pest control.
+
+Pricing: Offer competitive pricing and transparent pricing structures to build trust with customers. Be upfront about any fees or charges and offer flexible payment options.
+
+Customer support: Provide exceptional customer support, including timely responses to inquiries, easy cancellation and rescheduling options, and a clear escalation process for any issues or complaints.
 
 
 
 What makes your app/product "need to have" versus "nice to have"
 --------------
+Several factors that can make a home product/services & personalAI platform a "need to have" rather than a "nice to have" for customers:
 
-"Need to have" features are those that are essential for the business to achieve its goals and improve its operations. These may include:
+Convenience: A home services platform that offers a wide range of services and allows customers to easily book and pay for those services online can save customers time and hassle compared to traditional methods of finding and scheduling service providers.
 
-Automation of manual tasks
-Integration with existing systems
-Real-time access to business data
-Customization options to meet specific needs
-Improved visibility into key metrics
+Quality: A platform that partners with high-quality service providers and offers transparent pricing and a satisfaction guarantee can provide customers with peace of mind that they will receive top-notch service.
 
-"Nice to have" features, on the other hand, are additional capabilities that are not essential but can enhance the user experience and provide additional value. This may include:
+Trust: A platform that thoroughly vets service providers and offers reviews and ratings from other customers can help build trust with customers and make them feel more comfortable using the platform.
 
-Mobile accessibility
-Advanced reporting and analytics
-Advanced security features
-E-commerce integration
+Value: A platform that offers competitive pricing and promotions, as well as flexible payment options, can provide customers with added value compared to traditional service providers.
 
-It's important for businesses to carefully evaluate their specific needs and requirements and prioritize the features they need to have versus those that would be nice to have. This will help ensure that they choose an ERP solution that is the best fit for their business and provides the most value.
+Customer support: A platform that offers responsive and helpful customer support can make customers feel more supported and confident in their use of the platform.
 
+Overall, a home services platform that prioritizes convenience, quality, trust, value, and customer support can become a "need to have" for customers who want an easier and more reliable way to take care of their home service needs.
 
 
 Here is the documentation
