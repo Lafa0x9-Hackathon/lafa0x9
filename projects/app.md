@@ -55,6 +55,10 @@ Who are your main competitors
 
 There are many ERP solutions available in the market, and the main competitors can vary depending on the specific needs and requirements of a business. However, some of the most well-known and widely used ERP solutions include:
 
+MargERP 9+ GST Biling to Filing - marg.webologicsolutions.com
+
+Alignbook - alignbooks.com
+
 SAP: One of the largest and most well-established ERP providers, offering a range of solutions for businesses of all sizes.
 
 Oracle: A global technology company that offers a comprehensive range of ERP solutions, including cloud-based and on-premise options.
