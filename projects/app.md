@@ -2,15 +2,20 @@ Project Name: HelloBizs
 
 Dev URL: https://webapp.surendrakumarsomai.com.np
 
-Dev URL Demo Login
+Dev URL Demo Login:
 --------------
 username: harka
 password: harka@123
 
+
+
+
 Live URL: 
+------------
 
-https://hbs.com.np
+https://hbs.com.np/pricing
 
+Trial Use For Testing HelloBizs 
 
 Who We Are
 --------------
