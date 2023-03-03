@@ -1,4 +1,4 @@
-Project Name: WeBiz
+Project Name: HelloBizs
 
 Dev URL: https://webapp.surendrakumarsomai.com.np
 
@@ -6,6 +6,11 @@ Dev URL Demo Login
 --------------
 username: harka
 password: harka@123
+
+Live URL: 
+
+https://hbs.com.np
+
 
 Who We Are
 --------------
