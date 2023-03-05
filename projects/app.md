@@ -4,8 +4,8 @@ Dev URL: https://webapp.surendrakumarsomai.com.np
 
 Dev URL Demo Login:
 --------------
-username: harka
-password: harka@123
+username: demo
+password: demo123
 
 
 
@@ -13,7 +13,7 @@ password: harka@123
 Live URL: 
 ------------
 
-https://hbs.com.np/pricing
+https://hbs.com.np
 
 Trial Use For Testing HelloBizs 
 
