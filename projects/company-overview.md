@@ -2,4 +2,4 @@ Informational statement about a company that is designed to provide people with 
 
 Here is the Company Equity, Business Plan, Branding & Sales Strategy:
 
-https://docs.google.com/spreadsheets/d/1nwdeeM53RajkJ0IgpL5J7FxS0B9c2IvTAhHnfe_96-0/edit?usp=sharing
+https://drive.google.com/drive/folders/18plFryGWLJR77h8cwnfQkipJP27yzncp?usp=sharing
