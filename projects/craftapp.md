@@ -84,9 +84,3 @@ What will you learn
 3. Security Design & Development(D&D)
 4. Personal Development & Well-Design Mindset(D&D)
 
-
-
-
-Here are some books to read for expanding your boundaries:
-
-https://ssomai.com.np/wp-content/uploads/2022/11/Frontend-Unicorn-v1.pdf
