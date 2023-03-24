@@ -1,14 +1,4 @@
-Project Name: HelloBizs
-
-Dev URL: https://webapp.surendrakumarsomai.com.np
-
-Dev URL Demo Login:
---------------
-username: demo
-password: demo123
-
-
-
+Project Name: Hellobizs
 
 Live URL: 
 ------------
