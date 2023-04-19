@@ -7,6 +7,8 @@ https://hbs.com.np
 
 Trial Use For Testing HelloBizs 
 
+<img src="https://camo.envatousercontent.com/40a5763a895296f7a3e1193811aa3a0463d5d90d/68747470733a2f2f756c74696d617465666f73746572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f556c74696d6174652d504f532d6f6e652d736f6674776172652d666f722d65766572792d627573696e6573732e706e67" alt="allinone" />
+
 Who We Are
 --------------
 
@@ -60,62 +62,6 @@ MargERP 9+ GST Biling to Filing - marg.webologicsolutions.com
 Alignbook - alignbooks.com
 
 RigoNepal - rigonepal.com
-
-These are just a few examples of the many ERP solutions available in the market, and the specific competitors for a business will depend on its size, industry, and requirements. It's important for businesses to carefully evaluate the features and functionalities of different solutions and choose the one that best fits their needs.
-
-
-
-How does your app/product solve this problem differently than your competitors
---------------
-
-However, it is important for businesses to evaluate the unique features and capabilities of different ERP solutions and choose the one that best fits their specific needs and requirements. This may include factors such as integration with existing systems, customization options, deployment options (cloud-based vs on-premise), pricing, user experience, and more. By carefully considering these factors and evaluating the offerings of different solutions, businesses can determine which one will best help them achieve their goals and improve their operations.
-
-
-
-What makes your app/product "need to have" versus "nice to have"
---------------
-
-"Need to have" features are those that are essential for the business to achieve its goals and improve its operations. These may include:
-
-Automation of manual tasks
-Integration with existing systems
-Real-time access to business data
-Customization options to meet specific needs
-Improved visibility into key metrics
-
-"Nice to have" features, on the other hand, are additional capabilities that are not essential but can enhance the user experience and provide additional value. This may include:
-
-Mobile accessibility
-Advanced reporting and analytics
-Advanced security features
-E-commerce integration
-
-It's important for businesses to carefully evaluate their specific needs and requirements and prioritize the features they need to have versus those that would be nice to have. This will help ensure that they choose an ERP solution that is the best fit for their business and provides the most value.
-
-
-
-Here is the documentation
-----------------------------
-
-https://ultimatefosters.com/docs/ultimatepos
-
-
-
-What will you learn
----------------------
-
-1. Front End & Backend Design & Development(D&D)
-2. Database Design & Development(D&D)
-3. Security Design & Development(D&D)
-4. Personal Development & Well-Design Mindset(D&D)
-
-
-
-
-Here are some books to read for expanding your boundaries:
-
-https://ssomai.com.np/wp-content/uploads/2022/11/Frontend-Unicorn-v1.pdf
-
 
 These are just a few examples of the many ERP solutions available in the market, and the specific competitors for a business will depend on its size, industry, and requirements. It's important for businesses to carefully evaluate the features and functionalities of different solutions and choose the one that best fits their needs.
 
