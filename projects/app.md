@@ -2,8 +2,16 @@ Project Name: Hellobizs
 
 Live URL: 
 ------------
-
 https://hbs.com.np
+
+Development URL:
+------------
+https://www.mahimamultipurpose.com.np/
+
+Project Files etc URL:
+------------
+https://drive.google.com/drive/folders/1IPPoat5HZNnWoKN8UnqzWQis2fXS0MxF?usp=sharing
+
 
 Trial Use For Testing HelloBizs 
 
