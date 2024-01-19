@@ -1,12 +1,16 @@
-Project Name: Craft Sewa - Web & Mobile App
+Project Name: Craft SasToSales - Web & Mobile App
 
-Live URL: https://sewa.ssomai.com.np
+Live URL: 
+https://sastosales.com.np/
+
+Development URL:
+https://sewa.ssomai.com.np
 
 
 Who We Are
 --------------
 
-This App is a brand of The Sewa SSO-M-AI. We are committed to providing the Best quality Application which helps you to book/purchase home products, services & personalAI into your life.
+This App is a brand of The SasToSales SSO-M-AI. We are committed to providing the Best quality Application which helps you to book/purchase home products, services & personalAI into your life.
 
 Solutions that are designed to help customers for various daily home related to their operations lifestyle. These solutions are typically integrated and offer a centralized platform to manage key functions
 
