@@ -4,7 +4,7 @@ Live URL:
 https://sastosales.com.np/
 
 Development URL:
-https://sewa.ssomai.com.np
+https://dev.sastosales.com.np/
 
 Project Files etc URL: 
 https://drive.google.com/drive/folders/1ej_d-WOqBqepUbRHGf3UDO4EYnLb_1ZM?usp=sharing
