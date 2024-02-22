@@ -8,6 +8,9 @@ Development URL:
 ------------
 https://dev.mahimamultipurpose.com.np/
 
+Git Repository : 
+<a href = "https://github.com/Lafa0x9-Hackathon/mahima-multipurpose" target="_blank">Mahima Multipurpose</a>
+
 Project Files etc URL:
 ------------
 https://drive.google.com/drive/folders/1IPPoat5HZNnWoKN8UnqzWQis2fXS0MxF?usp=sharing
