@@ -1,3 +1,5 @@
+Project Name
+=======
 Project Name: Mangalmaya - Smart Investment Co
 
 Live URL: 
@@ -68,4 +70,3 @@ What will you learn
 3. Security Design & Development
 4. Market Finance Analysis & Trading
 5. Personal Development & Well-Design Mindset
-

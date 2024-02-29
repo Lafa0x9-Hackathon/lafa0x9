@@ -1,4 +1,6 @@
-Project Name: Micro Banking
+Project Name
+=======
+Micro Banking
 
 Live URL: 
 ------------
