@@ -67,6 +67,5 @@ What will you learn
 1. Front/Backend Design & Development
 2. Database Design & Development
 3. Security Design & Development
-4. Market Finance Analysis & Trading
-5. Personal Development & Well-Design Mindset
+4. Personal Development & Well-Design Mindset
 
