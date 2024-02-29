@@ -8,7 +8,7 @@ Our Corporation's commitment to corporate responsibility is exemplified through 
 
 In conclusion, Our Corporation's comprehensive overview encapsulates its journey of innovation, financial prowess, and commitment to responsible business practices. Regularly updated to ensure accuracy and relevance, this overview serves as a valuable resource for stakeholders, investors, and consumers alike, providing insight into the company's operations, financial stability, and ongoing contributions to the world of technology and beyond.
 
-Here is the Companies & Project Roadmap URL:
+Here is our companies & project Roadmap URL:
 -------
 https://docs.google.com/spreadsheets/d/1nwdeeM53RajkJ0IgpL5J7FxS0B9c2IvTAhHnfe_96-0/edit?usp=sharing
 
