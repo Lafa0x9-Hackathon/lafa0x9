@@ -1,13 +1,24 @@
 Project Name: Craft SasToSales - Web & Mobile App
 
-Live URL: 
+Live URL:
+------------
 https://sastosales.com.np/
 
 Development URL:
+------------
 https://dev.sastosales.com.np/
 
-Project Files etc URL: 
+Project Files etc URL:
+------------
 https://drive.google.com/drive/folders/1ej_d-WOqBqepUbRHGf3UDO4EYnLb_1ZM?usp=sharing
+
+Git Repository:
+------------
+<a href = "https://github.com/Lafa0x9-Hackathon/sastosales" target="_blank">SastoSales</a>
+
+Technology Used:
+------------
+Laravel, ReactJs, Vuejs
 
 
 Who We Are
