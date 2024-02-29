@@ -1,6 +1,6 @@
 Project Name
 =======
-Project Name: Mangalmaya - Smart Investment Co
+Mangalmaya - Smart Investment Co
 
 Live URL: 
 ------------
