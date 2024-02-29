@@ -8,6 +8,14 @@ Development URL:
 ------------
 https://dev.mangalmaya.com.np
 
+Project Files etc URL:
+------------
+https://drive.google.com/drive/folders/1QBVyiVP-Rtn7CdIrg28njI8c-cpheZah?usp=drive_link
+
+Codebase Repo URL:
+------------
+coming soon
+
 Who Are We 
 ------------
 Mangalmaya is leading smart investment company dedicated to simplifying ROI operations and driving innovation across various industries with a focus on providing integrated solutions, 
