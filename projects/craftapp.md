@@ -9,6 +9,9 @@ https://dev.sastosales.com.np/
 Project Files etc URL: 
 https://drive.google.com/drive/folders/1ej_d-WOqBqepUbRHGf3UDO4EYnLb_1ZM?usp=sharing
 
+Technology Used : 
+Laravel
+
 
 Who We Are
 --------------
