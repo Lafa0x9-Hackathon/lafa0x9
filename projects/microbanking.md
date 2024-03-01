@@ -8,7 +8,7 @@ coming soon
 
 Development URL:
 ------------
-https://microbank.mahimamultipurpose.com.np/
+https://microbank.sastosales.com.np/
 
 Project Files etc URL:
 ------------
