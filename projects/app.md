@@ -10,7 +10,7 @@ https://dev.mahimamultipurpose.com.np/
 
  Git Repository: 
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/mahima-multipurpose" target="_blank">Mahima Multipurpose</a>
+<a href = "https://github.com/Lafa0x9-Hackathon/mahima-multipurpose" target="_blank">Mahima Multipurpose</a> - This link is reserved for members only
 
 Project Files etc URL:
 ------------
