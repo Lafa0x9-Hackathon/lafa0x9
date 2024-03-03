@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1IPPoat5HZNnWoKN8UnqzWQis2fXS0MxF?usp=dri
 
 Git Repository:
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/hellobizs" target="_blank">HelloBizs</a>
+<a href = "https://github.com/Lafa0x9-Hackathon/hellobizs" target="_blank">HelloBizs</a> - This link is reserved for members only
 
 Technology Used:
 ------------
