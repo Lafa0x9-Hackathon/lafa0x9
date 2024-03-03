@@ -10,6 +10,10 @@ Development URL :
 -----------
 https://sewa.ssomai.com.np/
 
+Project Files etc URL:
+------------
+https://drive.google.com/drive/folders/1gLhNJQNs9so9xLH0z6UcznljqoYSx-Lu?usp=drive_link
+
 Git Repository : 
 -----------
 <a href = "https://github.com/Lafa0x9-Hackathon/ssomai" target="_blank">Ssomai</a>
