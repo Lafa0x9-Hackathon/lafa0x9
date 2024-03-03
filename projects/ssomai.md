@@ -12,7 +12,7 @@ https://sewa.ssomai.com.np/
 
 Git Repository : 
 -----------
-<a href = "https://github.com/Lafa0x9-Hackathon/ssomai" target="_blank">Ssomai</a>
+<a href = "https://github.com/Lafa0x9-Hackathon/ssomai" target="_blank">Ssomai</a> - This link is reserved for members only
 
 Technology Used : 
 -----------
