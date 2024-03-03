@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/1QBVyiVP-Rtn7CdIrg28njI8c-cpheZah?usp=dri
 
 Codebase Repo URL:
 ------------
-coming soon
+<a href = "https://github.com/Lafa0x9-Hackathon/mangalmaya" target="_blank">Mangalmaya</a> - This link is reserved for members only
 
 Who Are We 
 ------------
