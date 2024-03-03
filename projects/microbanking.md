@@ -18,7 +18,7 @@ Project Files etc URL:
 
 Codebase Repo URL:
 ------------
-coming soon
+<a href = "https://github.com/Lafa0x9-Hackathon/microBanking" target="_blank">MicroBanking</a> - This link is reserved for members only
 
 
 Who Are We 
