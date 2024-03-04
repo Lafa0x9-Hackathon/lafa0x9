@@ -1,6 +1,17 @@
 ## Recon
 
-## Recon :-
+Firstly, We should focus in networking and web server fundamentals at the beginning, and have a good knowledge and understanding of different ports and protocols, different network services, OSI Layer and TCP/IP Layer, HTTP requests, HTTP request methods, HTTP responses, DNS, IPv4 and IPv6, etc.
+
+After that, you can get started with learning web development, you don't really need to become able to develop cool-looking webpages, but you need to learn up to the point where you can solve different problems with JavaScript (you need to be really good with it) and a backend technology like PHP, Python or Node.js, and you will also need to learn a SQL and a NoSQL database technology.
+
+With that being done, now you can start learning web security, different kind of vulnerabilities in web applications, how they exist, how to find them, plus how to fix them as an efficient web programmer. During this phase, you can also start learning about cryptography, digital forensics, reconnaissance and intelligence gathering. At this stage, if you are interested in doing bug bounty hunting, you can get started, but you need to learn more! 🙂 Also, when you are learning about web security vulnerabilities, you can also learn about REST APIs and GraphQL, and security measures in them. During your web security learning phase, I suggest you to start learning scripting and automation as well; for this, you can pick up a Shell Scripting language like Bash, and a scripting language like Python, PHP or Perl.
+
+You can learn about different exploitation, post-exploitation, privilege escalation, etc. techniques. You can also establish a background in programming with C, C++ or Rust. When you are done with these things or when you are well-aware of all of these things, you can move on to things like reverse engineering, and later on move on to binary exploitation as well. With all of these things being done (no need to become an expert), you can choose your career pathway into web security, mobile security, binary exploitation, network security, cloud security, blockchain security, IoT security, etc. What I have said here is all a part of what things I did during my learning phase. 😊😊
+
+In my case, I mostly learn from official documentations of different technologies, plus the research papers and different RFCs. Many online platform like W3Schools, Mozilla Developer Network (MDN), Dev.to, StackOverflow, the overall StackExchange forums, the Twitter security community, PortSwigger Web Academy, Hack The Box, TryHackMe, VulnHub, etc., and digital content (videos, resources, tools) creators like John Hammond, STÖK, Nahamsec, The Cyber Mentor, Conda, HackerSploit, LiveOverflow, Hakluke, TomNomNom, ProjectDiscovery, EdOverflow, NetworkChuck, Codingo, Reconless, Samy Kamkar, etc.
+
+
+## methodology  :-
 
 - subfinder
 
