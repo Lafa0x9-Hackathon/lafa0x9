@@ -24,6 +24,27 @@ Technology Used:
 ------------
 Laravel, Android Studio [Java] 
 
+Account type: Select Admin from the list
+---
+
+Username: admin
+Password: 12345678900
+
+
+User Test Credentials: Account type: Driver
+---
+
+Phone: (Kenya) 0797049288
+Password: 1234567890
+
+
+User Test Credentials: Account type: User
+---
+
+Phone (Kenya) 0797049289
+Password: 1234567890
+
+
 Who Are We 
 ------------
 
