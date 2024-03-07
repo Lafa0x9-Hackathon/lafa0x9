@@ -1,6 +1,6 @@
 Project Name
 ------------
-BookRide
+Book A Ride
 
 Live URL: 
 ------------
@@ -8,7 +8,7 @@ coming soon
 
 Development URL:
 ------------
-coming soon
+https://bookride.sastosales.com.np/
 
 Project Files etc URL:
 ------------
@@ -16,8 +16,8 @@ coming soon
 
 Git Repository:
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/new-bookride" target="_blank">Backend BookRide</a> - This link is reserved for members only
-<a href = "https://github.com/Lafa0x9-Hackathon/user-app" target="_blank">UserApp</a> - This link is reserved for members only
+<a href = "https://github.com/Lafa0x9-Hackathon/new-bookride" target="_blank">Backend BookRide</a> - This link is reserved for members only <br>
+<a href = "https://github.com/Lafa0x9-Hackathon/user-app" target="_blank">UserApp</a> - This link is reserved for members only<br>
 <a href = "https://github.com/Lafa0x9-Hackathon/driver-app" target="_blank">DriverApp</a> - This link is reserved for members only
 
 Technology Used:
