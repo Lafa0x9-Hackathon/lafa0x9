@@ -13,6 +13,27 @@ In my case, I mostly learn from official documentations of different technologie
 
 ## methodology  :-
 
+1. Get company profile
+2. Search ASNs and domain info
+3. Get Ip ranges from ASNs
+4. Reverse lookup ips to find subdomians
+5. Subdomians enumeration
+6. Ip port and services scanning
+7. Filter out live subdomians
+8. Manually check all the live subdomians
+9. Find out the tech stack used to build the application, find versions search exploits
+10. Use gau and waybackurls to crawl for urls and endpoints
+11. Use grep to filter out required information from the crawled urls
+12. Get js files from crawleed txt files and save it to new file and scan js files for data exposure
+13. Use gau+waybackurls --> gf tool to filter xss params --> dalfox for XSS scanning
+14. Google dorking
+15. Github dorking
+16. Shodan dorking
+17. Censys search
+
+
+## Modules & Tools  :-
+
 - subfinder
 
 subfinder -dL domains.txt -o subfinder.txt
@@ -402,10 +423,30 @@ Amass https://github.com/OWASP/Amass
 Find all subdomains, even ones that aren't active.
 Always scan all ports
 
-Tools to get set up:
+##Tools to get set up:
+
   (https://github.com/pry0cc/axiom) axiom for different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more
 
-Other Tools for scanner, pentesters, exploit etc: 
+  Some Used Command using Axiom & Digital Ocean:
+  
+axiom-rm 'name\*' -f
+axiom-fleet ram -i 2
+
+axiom-rm "jarvis*" -f
+
+axiom-scan <filename/domain> -m nuclei -ef info
+
+axiom-scan nab-i.txt -m subfinder -o nab-o.txt
+
+
+scp -r root@167.71.222.183:works ~/Desktop/
+
+scp -r ~/Desktop/works root@167.71.222.183:~/
+
+
+
+##Other Tools for scanner, pentesters, exploit etc: 
+
 https://github.com/HackWithSumit/BurpSuiteProfessional-2023
 https://github.com/HackWithSumit/BurpSuiteProfessional-2023
 
