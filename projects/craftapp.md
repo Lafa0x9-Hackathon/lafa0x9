@@ -1,6 +1,6 @@
 Project Name:
 ------------
-SasToSales - Find, Create ADS & POST NEAR YOU
+SasToSales - FIND, CREATE ADS & POST NEAR YOU
 
 Live URL:
 ------------
