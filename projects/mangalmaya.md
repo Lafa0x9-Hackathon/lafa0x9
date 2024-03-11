@@ -1,6 +1,6 @@
 Project Name
 =======
-Mangalmaya - Smart Investment Co
+Mangalmaya - Travel Nepal
 
 Live URL: 
 ------------
@@ -18,9 +18,13 @@ Codebase Repo URL:
 ------------
 <a href = "https://github.com/Lafa0x9-Hackathon/mangalmaya" target="_blank">Mangalmaya</a> - This link is reserved for members only
 
+Technology Used:
+------------
+React, React Native
+
 Who Are We 
 ------------
-Mangalmaya is leading smart investment company dedicated to simplifying ROI operations and driving innovation across various industries with a focus on providing integrated solutions, 
+Mangalmaya is a platform to find best place to visit in Nepal 
 
 What is the main problem it solves
 ------------
@@ -68,5 +72,4 @@ What will you learn
 1. Front/Backend Design & Development
 2. Database Design & Development
 3. Security Design & Development
-4. Market Finance Analysis & Trading
-5. Personal Development & Well-Design Mindset
+4. Personal Development & Well-Design Mindset
