@@ -1,4 +1,6 @@
-Project Name: Craft SasToSales - Web & Mobile App
+Project Name:
+------------
+SasToSales - Find, Create ADS & POST NEAR YOU
 
 Live URL:
 ------------
