@@ -1,6 +1,6 @@
 Project Name
 =======
-Micro Banking
+Micro Banking - Smart Investment Co
 
 Live URL: 
 ------------
@@ -20,6 +20,9 @@ Codebase Repo URL:
 ------------
 <a href = "https://github.com/Lafa0x9-Hackathon/microBanking" target="_blank">MicroBanking</a> - This link is reserved for members only
 
+Technology Used:
+------------
+Laravel
 
 Who Are We 
 ------------
@@ -71,4 +74,5 @@ What will you learn
 1. Front/Backend Design & Development
 2. Database Design & Development
 3. Security Design & Development
-4. Personal Development & Well-Design Mindset
+4. Market Finance Analysis & Trading
+5. Personal Development & Well-Design Mindset
