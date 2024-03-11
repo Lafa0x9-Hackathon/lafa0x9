@@ -1,6 +1,6 @@
 Project Name
 =======
-SSOMAI
+SSOMAI - An open finances platform for communities 
 
 Live URL: 
 ------------
@@ -25,6 +25,8 @@ Wordpress
 
 Who Are We 
 ------------
+An open finances platform for communities. We made possible by an international team of people who are committed to community-control of technology. Whether you're a mutual aid group, a community initiative, an open-source software project, or a climate change activist, it helps groups unlock access to money. Connect with us.
+
 
 
 What is the main problem it solves
