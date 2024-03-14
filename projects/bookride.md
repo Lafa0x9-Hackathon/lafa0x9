@@ -24,12 +24,6 @@ Technology Used:
 ------------
 Laravel, Android Studio [Java] 
 
-Account type: Select Admin from the list
----
-
-Username: admin
-Password: 12345678900
-
 
 User Test Credentials: Account type: Driver
 ---
