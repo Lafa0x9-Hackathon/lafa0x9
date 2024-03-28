@@ -1,6 +1,6 @@
 Project Name
 =======
-SSOMAI - An open finances platform for communities 
+SSOMAI - An open finances platform with the help of AI for communities 
 
 Live URL: 
 ------------
