@@ -22,7 +22,7 @@ Day 1: Pitching and Design
 ---
 
 
-Morning Session (3 hours):
+Morning Session (２ hours):
 ---
 Introduction to Advanced Pitching Techniques:
 Crafting compelling narratives
@@ -30,16 +30,18 @@ Understanding your audience
 Elevator pitches and beyond
 Practical Exercise: Participants will work in groups to develop and refine their pitches. Each group will present their pitch, followed by constructive feedback from peers and facilitators.
 
-Afternoon Session (3 hours):
+Afternoon Session (２ hours):
 ---
 Advanced Design Principles:
 User-centered design
 Prototyping tools and techniques
 Design thinking methodologies
 Hands-on Activity: Participants will engage in a design challenge, applying the principles discussed. They will create prototypes and iterate based on feedback from peers and facilitators.
-Day 2: Coding and Sales
 
-Morning Session (3 hours):
+Day 2: Coding and Sales
+---
+
+Morning Session (2 hours):
 ---
 Advanced Coding Concepts:
 Software architecture and design patterns
@@ -47,7 +49,7 @@ Version control systems (e.g., Git)
 Testing and debugging strategies
 Coding Workshop: Participants will work on coding challenges, focusing on implementing best practices and collaborating effectively within teams.
 
-Afternoon Session (3 hours):
+Afternoon Session (2 hours):
 ---
 Mastering Sales Techniques:
 Consultative selling
