@@ -18,6 +18,10 @@ Codebase Repo URL:
 ------------
 <a href = "https://github.com/Lafa0x9-Hackathon/mangalmaya" target="_blank">Mangalmaya</a> - This link is reserved for members only
 
+Technology Used :
+------------
+Reactjs, React Native, MySQL
+
 Who Are We 
 ------------
 Mangalmaya is leading smart investment company dedicated to simplifying ROI operations and driving innovation across various industries with a focus on providing integrated solutions, 
