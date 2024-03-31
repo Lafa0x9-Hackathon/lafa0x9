@@ -8,7 +8,7 @@ coming soon
 
 Development URL:
 ------------
-https://microbank.mahimamultipurpose.com.np/
+https://microbank.sastosales.com.np/
 
 Project Files etc URL:
 ------------
@@ -19,6 +19,10 @@ Project Files etc URL:
 Codebase Repo URL:
 ------------
 <a href = "https://github.com/Lafa0x9-Hackathon/microBanking" target="_blank">MicroBanking</a> - This link is reserved for members only
+
+Technology Used :
+------------
+Laravel 8 (php 7.3)
 
 
 Who Are We 
