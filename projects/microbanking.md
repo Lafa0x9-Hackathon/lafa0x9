@@ -20,9 +20,9 @@ Codebase Repo URL:
 ------------
 <a href = "https://github.com/Lafa0x9-Hackathon/microBanking" target="_blank">MicroBanking</a> - This link is reserved for members only
 
-Technology Used:
+Technology Used :
 ------------
-Laravel
+Laravel 8 (php 7.3)
 
 Who Are We 
 ------------

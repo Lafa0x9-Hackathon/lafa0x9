@@ -20,7 +20,7 @@ Git Repository:
 
 Technology Used:
 ------------
-Laravel
+Laravel-9 (php-8.0), ReactJs, Vuejs
 
 Who Are We 
 ------------

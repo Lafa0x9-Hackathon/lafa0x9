@@ -20,7 +20,7 @@ Git Repository:
 
 Technology Used:
 ------------
-Laravel
+Laravel 8 (php 7.3)
 
 
 Who We Are

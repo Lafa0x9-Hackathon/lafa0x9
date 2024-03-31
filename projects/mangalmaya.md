@@ -18,9 +18,9 @@ Codebase Repo URL:
 ------------
 <a href = "https://github.com/Lafa0x9-Hackathon/mangalmaya" target="_blank">Mangalmaya</a> - This link is reserved for members only
 
-Technology Used:
+Technology Used :
 ------------
-React, React Native
+Reactjs, React Native, MySQL
 
 Who Are We 
 ------------

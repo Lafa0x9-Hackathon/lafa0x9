@@ -22,7 +22,7 @@ Git Repository:
 
 Technology Used:
 ------------
-Laravel, Android Studio [Kotlin] 
+Laravel 8 (php 7.3), Android Studio [Kotlin] 
 
 
 User Test Credentials: Account type: Driver
@@ -37,7 +37,6 @@ User Test Credentials: Account type: User
 
 Phone (Kenya) 0797049289
 Password: 1234567890
-
 
 Who Are We 
 ------------
