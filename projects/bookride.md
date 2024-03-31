@@ -8,7 +8,7 @@ coming soon
 
 Development URL:
 ------------
-coming soon
+https://bookride.sastosales.com.np/
 
 Project Files etc URL:
 ------------
@@ -22,7 +22,7 @@ Git Repository:
 
 Technology Used:
 ------------
-Laravel, Android Studio [Java] 
+Laravel 8 (php 7.3), Android Studio [Kotlin] 
 
 Who Are We 
 ------------
