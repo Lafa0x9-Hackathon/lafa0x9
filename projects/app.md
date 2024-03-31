@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1IPPoat5HZNnWoKN8UnqzWQis2fXS0MxF?usp=sha
 
 Technology Used :
 ------------
-Laravel
+Laravel-9 (php-8.1)
 
 
 Trial Use For Testing Mahima Multipurpose
