@@ -18,7 +18,7 @@ Git Repository:
 
 Technology Used:
 ------------
-Laravel, ReactJs, Vuejs
+Laravel 8 (php 7.3), ReactJs, Vuejs
 
 
 Who We Are
