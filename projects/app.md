@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1IPPoat5HZNnWoKN8UnqzWQis2fXS0MxF?usp=sha
 
 Technology Used :
 ------------
-Laravel
+laravel-9(php-8.1)
 
 
 <img src="https://camo.envatousercontent.com/40a5763a895296f7a3e1193811aa3a0463d5d90d/68747470733a2f2f756c74696d617465666f73746572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f556c74696d6174652d504f532d6f6e652d736f6674776172652d666f722d65766572792d627573696e6573732e706e67" alt="allinone" />
