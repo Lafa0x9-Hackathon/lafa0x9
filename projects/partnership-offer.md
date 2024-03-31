@@ -15,3 +15,8 @@ https://docs.google.com/spreadsheets/d/1nwdeeM53RajkJ0IgpL5J7FxS0B9c2IvTAhHnfe_9
 To Know How To Do "Go Digital" Roadmap URL:
 -------
 https://drive.google.com/drive/folders/18plFryGWLJR77h8cwnfQkipJP27yzncp?usp=sharing
+
+Partnership Offer - Fill this form for joining our journey with us
+---
+https://forms.gle/hNftuWpogdQxaLN58
+
