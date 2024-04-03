@@ -10,6 +10,10 @@ Development URL:
 ------------
 https://dev.sastosales.com.np/
 
+UI/UX Development URL:
+------------
+https://www.figma.com/file/djZfUPShfdB2I7XS8OCeHE/Sprint-v1---dev.sastosales.com.np?type=design&node-id=31-81&mode=design&t=BDd5E02c3CMlFINd-0
+
 Project Files etc URL:
 ------------
 https://drive.google.com/drive/folders/1ej_d-WOqBqepUbRHGf3UDO4EYnLb_1ZM?usp=sharing
