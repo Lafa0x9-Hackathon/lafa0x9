@@ -10,6 +10,10 @@ Development URL:
 ------------
 https://dev.hbs.com.np/
 
+UI/UX Development URL:
+------------
+https://www.figma.com/file/42UVsI5cj8CKaaBMYGTS6J/Sprint-v1-Hellobizs---hbs.com.np?type=design&node-id=0-1&mode=design&t=N9GdAcA0GlsZdZNO-0 <br>
+
 Project Files etc URL:
 ------------
 https://drive.google.com/drive/folders/1IPPoat5HZNnWoKN8UnqzWQis2fXS0MxF?usp=drive_link
