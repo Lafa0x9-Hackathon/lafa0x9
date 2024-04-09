@@ -10,6 +10,10 @@ Development URL:
 ------------
 https://dev.mangalmaya.com.np
 
+UI/UX Development URL:
+------------
+https://www.figma.com/file/3FEYeQZBoOBJRg0rzB6uPg/Mangalmaya?type=design&node-id=1-2&mode=design&t=xxtOp0ltx3lFddZ8-0 <br>
+
 Project Files etc URL:
 ------------
 https://drive.google.com/drive/folders/1QBVyiVP-Rtn7CdIrg28njI8c-cpheZah?usp=drive_link
