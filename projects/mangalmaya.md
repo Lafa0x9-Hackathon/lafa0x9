@@ -12,7 +12,8 @@ https://dev.mangalmaya.com.np
 
 UI/UX Development URL:
 ------------
-https://www.figma.com/file/3FEYeQZBoOBJRg0rzB6uPg/Mangalmaya?type=design&node-id=1-2&mode=design&t=xxtOp0ltx3lFddZ8-0 <br>
+Frontend : https://www.figma.com/file/3FEYeQZBoOBJRg0rzB6uPg/Mangalmaya?type=design&node-id=1-2&mode=design&t=xxtOp0ltx3lFddZ8-0 <br>
+Admin Panel : https://www.figma.com/file/sJa9brNucre2c7dVKK74u7/Untitled?type=design&node-id=21-133&mode=design&t=Ryjeu8dDvUm3hvkR-0 <br>
 
 Project Files etc URL:
 ------------
