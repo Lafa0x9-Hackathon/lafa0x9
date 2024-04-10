@@ -46,7 +46,7 @@ This project exists thanks to all the people who contribute.
 
 There are also some level of programs which will examine to check the potential of any candidate. Also, we will provide advanced online community program:
  
-https://join.slack.com/t/sso-m-ai/shared_invite/zt-1q2s500te-DcryUFLPCLtl4xrMDm2UmQ
+https://join.slack.com/t/sso-m-ai/shared_invite/zt-2gmt5od1w-d6m3qksjfQp_pEl04XBRqQ
 
 For what we're currently working on, check out our pinned repositories!
 
