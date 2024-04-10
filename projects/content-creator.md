@@ -1,6 +1,6 @@
 Project Name
 ---------------
-Mr Somai
+SSOMAI - Content Creator
 
 Social Profiles
 ---------------
