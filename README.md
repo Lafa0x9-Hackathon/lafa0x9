@@ -6,6 +6,26 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, businesses, blogs, hacks, one-liners, cli/web tools, and more.</h4>
 
+
+Absolutely! Here's a more beginner-friendly version for Skype and Slack:
+
+### For Skype (Beginner):
+
+Embark on Your Journey to Success with Skype's Starter Assessment Program!
+
+ENROLL NOW: https://join.skype.com/t0BFVSKqVjfh
+
+Ready to kickstart your path to greatness? Dive into Skype's beginner-friendly assessment program, designed just for you! Discover your strengths, uncover hidden talents, and set sail towards your dreams. With Skype by your side, the sky's the limit!
+
+### For Slack (Intermediate & Pro):
+
+Elevate Your Game with Slack's Advanced Community Platform!
+
+ENROLL NOW: https://join.slack.com/t/sso-m-ai/shared_invite/zt-2gmt5od1w-d6m3qksjfQp_pEl04XBRqQ
+
+Take your skills to the next level with Slack's exclusive community program, tailored for intermediate and pro-level individuals like you! Connect with industry experts, collaborate on cutting-edge projects, and dive deep into specialized discussions. Whether you're a seasoned pro or on the brink of greatness, Slack's advanced features will propel you towards unparalleled success!
+
+
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
 This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
@@ -46,7 +66,6 @@ This project exists thanks to all the people who contribute.
 
 There are also some level of programs which will examine to check the potential of any candidate. Also, we will provide advanced online community program:
  
-https://join.slack.com/t/sso-m-ai/shared_invite/zt-2gmt5od1w-d6m3qksjfQp_pEl04XBRqQ
 
 For what we're currently working on, check out our pinned repositories!
 
