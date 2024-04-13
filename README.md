@@ -7,13 +7,14 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, businesses, blogs, hacks, one-liners, cli/web tools, and more.</h4>
 
 
-Absolutely! Here's a more beginner-friendly version for Skype and Slack:
+Absolutely! Here's a more beginner-friendly version for WhatsApp, Skype and Slack:
 
-### For Skype (Beginner):
+### For WhatsApp, Skype (Noob & Beginner):
 
 Embark on Your Journey to Success with Skype's Starter Assessment Program!
 
-ENROLL NOW: https://join.skype.com/t0BFVSKqVjfh
+ENROLL NOW At WhatsApp: https://chat.whatsapp.com/BgDsEz1whzG59NJWbC6YfA
+ENROLL NOW At Skype: https://join.skype.com/t0BFVSKqVjfh
 
 Ready to kickstart your path to greatness? Dive into Skype's beginner-friendly assessment program, designed just for you! Discover your strengths, uncover hidden talents, and set sail towards your dreams. With Skype by your side, the sky's the limit!
 
