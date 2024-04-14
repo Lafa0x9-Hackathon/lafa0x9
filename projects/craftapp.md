@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1ej_d-WOqBqepUbRHGf3UDO4EYnLb_1ZM?usp=sha
 
 Git Repository:
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/sastosales" target="_blank">SastoSales</a> - This link is reserved for members only
+<a href = "https://github.com/Lafa0x9-Hackathon/sastosales-frontend" target="_blank">SastoSales</a> - This link is reserved for members only
 
 Technology Used:
 ------------
