@@ -7,13 +7,86 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, businesses, blogs, hacks, one-liners, cli/web tools, and more.</h4>
 
 
-Absolutely! Here's a more beginner-friendly version for WhatsApp, Skype and Slack:
+
+## Awesome People
+
+Laradock is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from code contributors to financial contributors. 💜
+
+
+### Project Maintainers
+
+<table>
+  <tbody>
+    <tr>
+        <td align="center" valign="top">
+            <img width="125" height="125" src="https://avatars.githubusercontent.com/u/23354232?v=4">
+            <br>
+            <strong>Mr Lafa Singh</strong>
+            <br>
+            <a href="https://github.com/mrlafa">@lafa</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="125" height="125" src="https://avatars.githubusercontent.com/u/67852298?v=4">
+            <br>
+            <strong>Kriti Mallik</strong>
+            <br>
+            <a href="https://github.com/kritim36">@kritim36</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="125" height="125" src="https://avatars.githubusercontent.com/u/8281239?v=4">
+            <br>
+            <strong>Ekraj</strong>
+            <br>
+            <a href="https://github.com/mrekraj">@mrekraj</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="125" height="125" src="https://avatars.githubusercontent.com/u/9947912?v=4">
+            <br>
+            <strong>Surendra Kumar</strong>
+            <br>
+            <a href="https://github.com/surendrasomai">@surendra</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="125" height="125" src="https://avatars.githubusercontent.com/u/8281239?v=4">
+            <br>
+            <strong>Arjun Shrestha</strong>
+            <br>
+            <a href="https://github.com/arjunsth">@arjunsth</a>
+        </td>
+     </tr>
+  </tbody>
+</table>
+
+### Code Contributors
+
+[contributors-src]][contributors-href]
+
+### Financial Contributors
+
+[![Open Collective backers][backers-src]][backers-href]
+
+You can support us using any of the methods below:
+
+<br>
+<b>1:</b> [Paypal](https://paypal.me/somaisurendra)
+
+
+---
+
+
+## Sponsors
+
+Sponsoring is an act of giving in a different fashion. 🌱
+
+
+
+### Absolutely! Here's a more beginner-friendly version for WhatsApp, Skype and Slack:
 
 ### For WhatsApp, Skype (Noob & Beginner):
 
 Embark on Your Journey to Success with Skype's Starter Assessment Program!
 
-ENROLL NOW At WhatsApp: https://chat.whatsapp.com/BgDsEz1whzG59NJWbC6YfA
+ENROLL NOW At WhatsApp: https://chat.whatsapp.com/BgDsEz1whzG59NJWbC6YfA <br>
 ENROLL NOW At Skype: https://join.skype.com/t0BFVSKqVjfh
 
 Ready to kickstart your path to greatness? Dive into Skype's beginner-friendly assessment program, designed just for you! Discover your strengths, uncover hidden talents, and set sail towards your dreams. With Skype by your side, the sky's the limit!
