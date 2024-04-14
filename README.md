@@ -10,7 +10,7 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 
 ## Awesome People
 
-Laradock is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from code contributors to financial contributors. 💜
+Lafa0x9 is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from code contributors to financial contributors. 💜
 
 
 ### Project Maintainers
@@ -63,7 +63,7 @@ Laradock is an MIT-licensed open source project with its ongoing development mad
 
 ### Financial Contributors
 
-[![Open Collective backers][backers-src]][backers-href]
+[[backers-src]][backers-href]
 
 You can support us using any of the methods below:
 
