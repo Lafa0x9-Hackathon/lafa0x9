@@ -10,6 +10,10 @@ Development URL:
 ------------
 https://dev.mahimamultipurpose.com.np/
 
+UI/UX Development URL:
+------------
+Dashboard : https://www.figma.com/file/j3aJL9WAYUKsJXOlpMIDgv/Mahima-Multipurpose?type=design&node-id=0-1&mode=design&t=gre9MTArFS3RoHyb-0 <br>
+
  Git Repository: 
 ------------
 <a href = "https://github.com/Lafa0x9-Hackathon/mahima-multipurpose" target="_blank">Mahima Multipurpose</a> - This link is reserved for members only
