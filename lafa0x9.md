@@ -1,4 +1,4 @@
-Title: Unveiling the Journey of SSO_M_AI: Pioneering Excellence Tech, Geo & Bio MetryCraft -  Connecting Dots for Nepal
+Title: Unveiling the Journey of SSO_M_AI: Pioneering Excellence Tech, Geo & Bio MetryCraft -  Connecting Dots from Nepal
 
 In the bustling landscape of e-commerce, there exists a beacon of innovation, dedication, and unwavering commitment to customer satisfaction – SSO_M_AI. Born from the dreams and aspirations of a small group, this project has evolved over the years, fueled by passion, hard work, and a relentless pursuit of excellence.
 
