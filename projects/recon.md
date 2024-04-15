@@ -447,9 +447,15 @@ scp -r ~/Desktop/works root@167.71.222.183:~/
 
 ##Other Tools for scanner, pentesters, exploit etc: 
 
-https://github.com/HackWithSumit/BurpSuiteProfessional-2023
-https://github.com/HackWithSumit/BurpSuiteProfessional-2023
+https://drive.google.com/drive/folders/16Sj33zrlXppGxCX6ej2Ryrxj05AAZ-G2?usp=drive_link
 
+1. unzip it
+2. navigate to main folder > "Burp Suite Professional Edition v2024.2.1.3 x64 Full Activated + Extensions - www.dr-farfar.com"
+3. inside you will see a folder "Burp Suite Professional Edition" navigate into it
+4. run Dr-FarFar.jar >>   java -jr Dr-FarFar.jar
+
+
+### Methodology	
  
 1. Gather information about the target, including Acquisitions
 	-www.crunchbase.com (Find Acquisitions)
