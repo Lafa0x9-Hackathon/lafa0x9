@@ -12,7 +12,8 @@ https://dev.hbs.com.np/
 
 UI/UX Development URL:
 ------------
-https://www.figma.com/file/42UVsI5cj8CKaaBMYGTS6J/Sprint-v1-Hellobizs---hbs.com.np?type=design&node-id=0-1&mode=design&t=N9GdAcA0GlsZdZNO-0 <br>
+Website : https://www.figma.com/file/42UVsI5cj8CKaaBMYGTS6J/Sprint-v1-Hellobizs---hbs.com.np?type=design&node-id=0-1&mode=design&t=N9GdAcA0GlsZdZNO-0 <br>
+Dashboard : https://www.figma.com/file/NaLylTw3emuGeh2w8NbR9D/hbs-admin-dashboard?type=design&node-id=0-1&mode=design&t=tJiYNLNUItf1ChfL-0 <br>
 
 Project Files etc URL:
 ------------
