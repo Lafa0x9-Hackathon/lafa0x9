@@ -21,7 +21,7 @@ Lafa0x9 is an MIT-licensed open source project with its ongoing development made
         <td align="center" valign="top">
             <img width="125" height="125" src="https://avatars.githubusercontent.com/u/23354232?v=4">
             <br>
-            <strong>Mr Lafa Singh</strong>
+            <strong>Lafa Singh</strong>
             <br>
             <a href="https://github.com/mrlafa">@lafa</a>
         </td>
