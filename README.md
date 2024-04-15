@@ -135,11 +135,7 @@ All **suggestions/PR** are welcome!
 
 ### Code Contributors
 
-This project exists thanks to all the people who contribute.
-
-
-There are also some level of programs which will examine to check the potential of any candidate. Also, we will provide advanced online community program:
- 
+This project exists thanks to all the people who contribute. 
 
 For what we're currently working on, check out our pinned repositories!
 
@@ -149,9 +145,6 @@ As a contributor, you can make my life as a maintainer easier by:
  - Accepting my code suggestions through GitHub's interface
  - Marking conversations as resolved as you address them
  - (Re-)requesting my review when you're ready for one
-
-
-
 
 <!--
 **lafamumin/lafa0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
