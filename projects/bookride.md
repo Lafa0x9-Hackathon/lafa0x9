@@ -15,6 +15,7 @@ UI/UX Development URL:
 Driver App : https://www.figma.com/file/OrrDFWZ3HC0trneu4zzDmU/Sprint-v1-Book-A-Ride---Driver-App-iOS?type=design&node-id=0-1&mode=design&t=alWbuZ4vpfskL7nO-0 <br>
 User App : https://www.figma.com/file/boo4Eu1o8N0U447rbzpmRC/Sprint-v1-Book-A-Ride---User-App-iOS?type=design&node-id=0-1&mode=design&t=8JvM2Dy510KdXegl-0 <br>
 Admin Panel : https://www.figma.com/file/5uvzL33qk0Pv16K71mgxwf/Admin-panel?type=design&node-id=0-1&mode=design&t=QMInIBkqxBbxGpxT-0 <br>
+Web driver panel : https://www.figma.com/file/Xz45KBaSo20Ud3gyguuLxa/NewTaxi-Driver's-profile?type=design&node-id=0-1&mode=design<br>
 
 Project Files etc URL:
 ------------
@@ -22,9 +23,8 @@ coming soon
 
 Git Repository:
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/new-bookride" target="_blank">Backend BookRide</a> - This link is reserved for members only <br>
-<a href = "https://github.com/Lafa0x9-Hackathon/user-app" target="_blank">UserApp</a> - This link is reserved for members only<br>
-<a href = "https://github.com/Lafa0x9-Hackathon/driver-app" target="_blank">DriverApp</a> - This link is reserved for members only
+<a href = "https://github.com/Lafa0x9-Hackathon/bookride-app" target="_blank">BookRide-App</a> - This link is reserved for members only <br>
+<a href = "https://github.com/Lafa0x9-Hackathon/bookride-backend" target="_blank">Bookride-Backend</a> - This link is reserved for members only<br>
 
 Technology Used:
 ------------
