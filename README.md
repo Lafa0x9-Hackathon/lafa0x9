@@ -57,14 +57,6 @@ Lafa0x9 is an MIT-licensed open source project with its ongoing development made
   </tbody>
 </table>
 
-### Code Contributors
-
-[contributors-src]][contributors-href]
-
-### Financial Contributors
-
-[[backers-src]][backers-href]
-
 You can support us using any of the methods below:
 
 <br>
