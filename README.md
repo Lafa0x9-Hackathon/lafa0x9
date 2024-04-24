@@ -22,9 +22,9 @@ Dear Fellow Github Community Members,  We are ready to release 2-3 month online 
 
 🤝 Meet Our Collaborative Partners:
 
-Hello Business!
-SSOMAI - Open Source Hub
-Code in Nepal
+Hello Business!(hbs.com.np) <br>
+SSOMAI - Open Source Hub(ssomai.com.np) <br>
+Code in Nepal(codeinnepal.com) <br>
 Mahima Multipurpose Initiatives
 
 🎓 For Scholarship Opportunity! Do you excel in Communication, Mentorship, Project Leadership or Interviewing? We are excited to offer a Full Scholarship Program for standout talents! Send your CV to info@ssomai.com.np and take the first step towards joining our innovative community.
