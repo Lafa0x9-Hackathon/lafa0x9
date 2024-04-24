@@ -38,27 +38,6 @@ Mahima Multipurpose Initiatives (mahimamultipurpose.com.np)
 https://forms.gle/meEnMfyGTwXAt16HA
 
 
-
-### Absolutely! Here's a more beginner-friendly version for WhatsApp, Skype and Slack:
-
-### For WhatsApp, Skype (Noob & Beginner):
-
-Embark on Your Journey to Success with Skype's Starter Assessment Program!
-
-JOIN NOW At WhatsApp: https://chat.whatsapp.com/BgDsEz1whzG59NJWbC6YfA <br>
-JOIN NOW At Skype: https://join.skype.com/t0BFVSKqVjfh
-
-Ready to kickstart your path to greatness? Dive into beginner-friendly assessment program, designed just for you! Discover your strengths, uncover hidden talents, and set sail towards your dreams. With Skype by your side, the sky's the limit!
-
-### For Slack (Intermediate & Pro):
-
-Elevate Your Game with Slack's Advanced Community Platform!
-
-JOIN NOW: https://join.slack.com/t/sso-m-ai/shared_invite/zt-2gmt5od1w-d6m3qksjfQp_pEl04XBRqQ
-
-Take your skills to the next level with Slack's exclusive community program, tailored for intermediate and pro-level individuals like you! Connect with industry experts, collaborate on cutting-edge projects, and dive deep into specialized discussions. Whether you're a seasoned pro or on the brink of greatness, Slack's advanced features will propel you towards unparalleled success!
-
-
 ### Project Maintainers
 
 <table>
