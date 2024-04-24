@@ -12,6 +12,32 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 
 Lafa0x9 is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from code contributors to financial contributors. 💜
 
+Dear Fellow Github Community Members,  We are ready to release 2-3 month online workshop training for new comers. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships.  
+
+🚀 Are you passionate about technology and innovation? Dive into our world by exploring our YouTube channel for the latest updates and exciting insights: YouTube - Explore Now: youtube.com/@ssomai369/playlists
+
+
+🔗 Collaborate on Cutting-Edge Projects! Get involved in open-source projects that are shaping the future. Check out our work and contribute your expertise on GitHub.
+
+
+🤝 Meet Our Collaborative Partners:
+
+Hello Business!
+SSOMAI - Open Source Hub
+Code in Nepal
+Mahima Multipurpose Initiatives
+
+🎓 For Scholarship Opportunity! Do you excel in Communication, Mentorship, Project Leadership or Interviewing? We are excited to offer a Full Scholarship Program for standout talents! Send your CV to info@ssomai.com.np and take the first step towards joining our innovative community.
+
+🔍 We’re Looking For Leaders Like You! Don’t miss this chance to enhance your skills and grow with a vibrant team.
+
+📩 Reach out, engage, and let’s innovate together!
+
+### Registration Form For Non-Scholarship - Apply Here:
+
+https://forms.gle/meEnMfyGTwXAt16HA
+
+
 
 ### Absolutely! Here's a more beginner-friendly version for WhatsApp, Skype and Slack:
 
