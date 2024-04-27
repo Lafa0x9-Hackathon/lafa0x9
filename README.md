@@ -10,7 +10,7 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 
 ## Awesome People
 
-Lafa0x9 is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from code contributors to financial contributors. 💜
+Lafa0x9 is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from contributors to financial contributors. 💜
 
 Dear Fellow Github Community Members,  We are ready to release 2-3 month online workshop for new comers. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships.  
 
@@ -82,7 +82,7 @@ https://forms.gle/meEnMfyGTwXAt16HA
   </tbody>
 </table>
 
-### Code Contributors
+### Contributors
 
 [//]: contributor-faces
 
