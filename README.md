@@ -19,11 +19,11 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 
 Dear Fellow Github Community Members, Lafa0x9 is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from contributors to financial contributors. 💜
 
-Who are you, and where are you from?
+Who are we, and where are we from?
 ---
 GeometryCraft Community - Full Stack Enthusiast is a vibrant hub for tech enthusiasts, headquartered in Nepal. Our community is comprised of passionate individuals from diverse backgrounds, united by a shared interest in Full Stack development and innovation.
 
-What are you working on?
+What are we working on?
 ---
 We're currently organizing an immersive online workshop designed to empower participants with the skills and knowledge needed to excel in many IT Field. This comprehensive project learning workshop experience spans over 2-3 months and covers a wide range of topics, including CEO, CTO, Business Consultant & Development, HRM, Project&Product Manager, DevOps, frontend and backend technologies, database management, and more. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships. Additionally, we curate valuable resources such as lists, manuals, cheatsheets, blogs, and tools to support our community members on their learning journey.
 
