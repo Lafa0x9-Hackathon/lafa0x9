@@ -10,21 +10,26 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 <br>
 <a href="https://www.linkedin.com/company/89855045/" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
 <a href="https://www.facebook.com/techcraftdots"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Gmail" style="max-width: 100%;"></a>&nbsp;
-
+<a href="https://youtube.com/@ssomai369/playlists"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="max-width: 100%;"></a>&nbsp;
 </p>
 
 
 
 ## Awesome People
 
-Lafa0x9 is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from contributors to financial contributors. 💜
+Dear Fellow Github Community Members, Lafa0x9 is an MIT-licensed open source project with its ongoing development made possible entirely by the support of all these smart and generous people, from contributors to financial contributors. 💜
 
-Dear Fellow Github Community Members,  We are ready to release 2-3 month online workshop for new comers. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships.  
+Who are you, and where are you from?
+---
+GeometryCraft Community - Full Stack Enthusiast is a vibrant hub for tech enthusiasts, headquartered in Nepal. Our community is comprised of passionate individuals from diverse backgrounds, united by a shared interest in Full Stack development and innovation.
 
-🚀 Are you passionate about technology and innovation? Dive into our world by exploring our YouTube channel for the latest updates and exciting insights: YouTube - Explore Now: youtube.com/@ssomai369/playlists
+What are you working on?
+---
+We're currently organizing an immersive online workshop designed to empower participants with the skills and knowledge needed to excel in many IT Field. This comprehensive project learning workshop experience spans over 2-3 months and covers a wide range of topics, including CEO, CTO, Business Consultant & Development, HRM, Project&Product Manager, DevOps, frontend and backend technologies, database management, and more. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships. Additionally, we curate valuable resources such as lists, manuals, cheatsheets, blogs, and tools to support our community members on their learning journey.
 
-
-🔗 Collaborate on Cutting-Edge Projects! Get involved in open-source projects that are shaping the future. Check out our work and contribute your expertise on GitHub.
+Why is their sponsorship important? How will you use the funds?
+----
+Sponsorship plays a vital role in the success and sustainability of our workshop initiative. By supporting us as a sponsor, you'll help enhance the quality of our workshop content, expand its reach to a wider audience, and ensure accessibility through scholarships for participants facing financial difficulties. The funds will be utilized for various purposes, including content development, guest speakers, marketing and outreach efforts, administrative costs, and providing scholarships. Your contribution directly supports the growth and development of a thriving community dedicated to advancing technology and innovation.
 
 
 🤝 Meet Our Collaborative Partners:
