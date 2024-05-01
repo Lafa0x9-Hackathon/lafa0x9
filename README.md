@@ -84,7 +84,7 @@ https://forms.gle/meEnMfyGTwXAt16HA
             <a href="https://github.com/surendrasomai">@surendra</a>
             <br>
             <a href="https://paypal.me/somaisurendra">
-            <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> <img src=""> </a>
+            <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> </a>
         </td>
         <td align="center" valign="top">
             <img width="125" height="125" src="https://avatars.githubusercontent.com/u/8281239?v=4">
