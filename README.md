@@ -6,6 +6,13 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 
 <h4 align="center">A collection of inspiring lists, manuals, cheatsheets, businesses, blogs, hacks, one-liners, cli/web tools, and more.</h4>
 
+<p align="center" dir="auto">
+<br>
+<a href="https://linkedin.com/in/surendra-somai-813937101" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
+<a href="https://www.facebook.com/techcraftdots"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Gmail" style="max-width: 100%;"></a>&nbsp;
+
+</p>
+
 
 
 ## Awesome People
