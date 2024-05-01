@@ -16,7 +16,7 @@ Driver App : https://www.figma.com/file/OrrDFWZ3HC0trneu4zzDmU/Sprint-v1-Book-A-
 User App : https://www.figma.com/file/boo4Eu1o8N0U447rbzpmRC/Sprint-v1-Book-A-Ride---User-App-iOS?type=design&node-id=0-1&mode=design&t=8JvM2Dy510KdXegl-0 <br>
 Admin Panel : https://www.figma.com/file/5uvzL33qk0Pv16K71mgxwf/Admin-panel?type=design&node-id=0-1&mode=design&t=QMInIBkqxBbxGpxT-0 <br>
 Web driver panel : https://www.figma.com/file/Xz45KBaSo20Ud3gyguuLxa/NewTaxi-Driver's-profile?type=design&node-id=0-1&mode=design<br>
-Web Rider Panel : https://www.figma.com/file/KvErCElmAroDmDTgXKiRZ3/New-Taxi?type=design&node-id=0-1&mode=design&t=rSH2jrGnid9ubttY-0<br>
+Web Rider Panel : https://www.figma.com/file/eitrvD4GPBSNZnZiPSf7oG/Dashboard?type=design&node-id=0-1&mode=design&t=vVNJTya9vV7ORIwu-0<br>
 Web Company panel : https://www.figma.com/file/srxLkELJ6xYCAq7AkLqfUF/NewTaxi-Company-Dashboard?type=design&node-id=0-1&mode=design&t=2yLqhFfCtpavO2D4-0<br>
 
 Project Files etc URL:
