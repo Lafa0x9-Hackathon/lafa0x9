@@ -14,7 +14,7 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 </p>
 
 
-Please don’t forget to appreciate with star ⭐️ at GitHub repo, it will help us more to contribute more into the Open Source Community 
+Please don’t forget to appreciate with star ⭐️ at GitHub repo, it will help us more to contribute into the Open Source Community 
 
 
 ## Awesome People
