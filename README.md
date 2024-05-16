@@ -27,7 +27,7 @@ GeometryCraft Community - Full Stack Enthusiast is a vibrant hub for tech enthus
 
 What are we working on?
 ---
-We're currently organizing an immersive online workshop designed to empower participants with the skills and knowledge needed to excel in many IT Field. This comprehensive project learning workshop experience spans over 2-3 months and covers a wide range of topics, including CEO, CTO, Business Consultant & Development, HRM, Project&Product Manager, DevOps, frontend and backend technologies, database management, and more. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships. Additionally, we curate valuable resources such as lists, manuals, cheatsheets, blogs, and tools to support our community members on their learning journey.
+We're currently organizing an immersive online workshop designed to empower participants with the skills and knowledge needed to excel in many IT Field. This comprehensive project based learning workshop experience spans over 2-3 months and covers a wide range of topics, including CEO, CTO, Business Consultant & Development, HRM, Project&Product Manager, DevOps, frontend and backend technologies, database management, and more. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships. Additionally, we curate valuable resources such as lists, manuals, cheatsheets, blogs, and tools to support our community members on their learning journey.
 
 Why is their sponsorship important? How will you use the funds?
 ----
