@@ -113,13 +113,16 @@ https://ultimatefosters.com/docs/ultimatepos
 
 
 
-What will you learn
+What will you learn & skillset needed
 ---------------------
 
-1. Front End & Backend Design & Development(D&D)
-2. Database Design & Development(D&D)
-3. Security Design & Development(D&D)
-4. Personal Development & Well-Design Mindset(D&D)
+1. Operation Manager & HRM
+2. Project & Product Manager
+3. Digital Marketer
+4. Front End, Backend & Database Design & Development
+5. Data Analyst
+6. Security Design & Development
+7. Legal & Financial Advisor  
 
 
 
