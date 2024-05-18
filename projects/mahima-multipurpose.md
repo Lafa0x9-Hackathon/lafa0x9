@@ -16,7 +16,7 @@ Dashboard : https://www.figma.com/file/j3aJL9WAYUKsJXOlpMIDgv/Mahima-Multipurpos
 
  Git Repository: 
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/mahima-multipurpose" target="_blank">Mahima Multipurpose</a>
+<a href = "https://github.com/Lafa0x9-Hackathon/mahima-multipurpose" target="_blank">Mahima Multipurpose</a> - This link is reserved for members only
 
 Project Files etc URL:
 ------------
