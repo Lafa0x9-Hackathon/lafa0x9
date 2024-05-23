@@ -1,6 +1,6 @@
 Project Name
 ------------
-HelloBizs
+Hello Business
 
 Live URL: 
 ------------
