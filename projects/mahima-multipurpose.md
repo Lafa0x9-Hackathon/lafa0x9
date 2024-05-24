@@ -120,7 +120,7 @@ What will you learn & skillset needed
 2. Project & Product Manager
 3. Digital Marketing & Lead Generation
 4. Front End, Backend & Database Design & Development
-5. Data Analyst
+5. Data & QA Analyst
 6. Security Design & Development
 7. Legal & Financial Advisor  
 
