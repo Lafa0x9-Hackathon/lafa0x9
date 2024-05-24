@@ -106,7 +106,7 @@ Mahima MultiPurpose is a "need to have" solution for businesses aiming to optimi
 
 
 
-Here is our support link url
+Here is our support url
 ----------------------------
 
 https://support.mahimamultipurpose.com.np/knowledge-base
