@@ -92,7 +92,7 @@ What will you learn & skillset needed
 
 1. Operation Manager & HRM
 2. Project & Product Manager
-3. Digital Marketing & Lead Generation
+3. Digital Marketing, Lead Generation & Customer Support
 4. Front End, Backend & Database Design & Development
 5. Data & QA Analyst
 6. Security Design & Development
