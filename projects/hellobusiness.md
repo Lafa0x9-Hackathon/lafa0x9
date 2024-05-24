@@ -81,11 +81,10 @@ Business Criticality: HelloBizs should demonstrate its importance in enabling bu
 By emphasizing these factors, we can position itself as an indispensable solution that addresses critical business needs and delivers tangible value, making it a "need to have" product rather than merely a "nice to have" option for businesses operating in diverse domains.
 
 
-Here is the documentation
+Here is our support url
 ----------------------------
 
-coming soon
-
+https://support.hbs.com.np/knowledge-base
 
 
 What will you learn & skillset needed
