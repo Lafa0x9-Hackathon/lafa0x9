@@ -106,11 +106,10 @@ Mahima MultiPurpose is a "need to have" solution for businesses aiming to optimi
 
 
 
-Here is the documentation
+Here is our support link url
 ----------------------------
 
-https://ultimatefosters.com/docs/ultimatepos
-
+https://support.mahimamultipurpose.com.np/knowledge-base
 
 
 What will you learn & skillset needed
