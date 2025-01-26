@@ -6,9 +6,19 @@ Live URL:
 ------------
 https://ssomai.com.np/
 
-Development URL : 
+Development Agent URL : 
 -----------
 https://sewa.ssomai.com.np/
+
+Short Note:
+
+langGraph or CrewAI  ( anything else? )
+
+Lets build a multi-team AI agent using langGraph or crewAI that will constantly analyse, fix and create/update/enhance code.
+
+You can refer to https://bolt.new/ for how it should work. Once the agents are ready, I will be happy to ask someone to develop he whole app.
+
+
 
 Project Files etc URL:
 ------------
