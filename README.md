@@ -14,6 +14,8 @@ We're GeometryCraft Community - Full Stack Enthusiast.
 </p>
 
 
+Please don’t forget to appreciate with star ⭐️ at GitHub repo, it will help us more to contribute into the Open Source Community 
+
 
 ## Awesome People
 
@@ -25,7 +27,7 @@ GeometryCraft Community - Full Stack Enthusiast is a vibrant hub for tech enthus
 
 What are we working on?
 ---
-We're currently organizing an immersive online workshop designed to empower participants with the skills and knowledge needed to excel in many IT Field. This comprehensive project learning workshop experience spans over 2-3 months and covers a wide range of topics, including CEO, CTO, Business Consultant & Development, HRM, Project&Product Manager, DevOps, frontend and backend technologies, database management, and more. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships. Additionally, we curate valuable resources such as lists, manuals, cheatsheets, blogs, and tools to support our community members on their learning journey.
+We're currently organizing an immersive online workshop designed to empower participants with the skills and knowledge needed to excel in many IT Field. This comprehensive project based learning workshop experience spans over 2-3 months and covers a wide range of topics, including CEO, CTO, Business Consultant & Development, HRM, Project&Product Manager, DevOps, frontend and backend technologies, database management, and more. At the end of the workshop, you’ll receive a certificate and a few exceptional participants will be offered internship. If any participants have financial difficulties, we will offer them with scholarships. Additionally, we curate valuable resources such as lists, manuals, cheatsheets, blogs, and tools to support our community members on their learning journey.
 
 Why is their sponsorship important? How will you use the funds?
 ----
@@ -95,7 +97,7 @@ https://forms.gle/meEnMfyGTwXAt16HA
             <br>
             <a href="https://github.com/surendrasomai">@surendra</a>
             <br>
-            <a href="https://paypal.me/somaisurendra">
+            <a href="https://paypal.me/surensomai">
             <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> </a>
         </td>
         <td align="center" valign="top">

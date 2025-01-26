@@ -16,7 +16,7 @@ Dashboard : https://www.figma.com/file/j3aJL9WAYUKsJXOlpMIDgv/Mahima-Multipurpos
 
  Git Repository: 
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/mahima-multipurpose" target="_blank">Mahima Multipurpose</a>
+<a href = "https://github.com/Lafa0x9-Hackathon/mahima-multipurpose" target="_blank">Mahima Multipurpose</a> - This link is reserved for members only
 
 Project Files etc URL:
 ------------
@@ -26,8 +26,14 @@ Technology Used :
 ------------
 Laravel-9 (php-8.1)
 
+<img src="https://github.com/Lafa0x9-Hackathon/lafa0x9/blob/main/projects/1.jpg" alt="allinone1" />
+
+<img src="https://github.com/Lafa0x9-Hackathon/lafa0x9/blob/main/projects/2.jpg" alt="allinone2" />
 
 <img src="https://camo.envatousercontent.com/40a5763a895296f7a3e1193811aa3a0463d5d90d/68747470733a2f2f756c74696d617465666f73746572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f556c74696d6174652d504f532d6f6e652d736f6674776172652d666f722d65766572792d627573696e6573732e706e67" alt="allinone" />
+
+<img src="https://github.com/Lafa0x9-Hackathon/lafa0x9/blob/main/projects/4.jpg" alt="allinone4" />
+
 
 Who We Are
 --------------
@@ -100,20 +106,22 @@ Mahima MultiPurpose is a "need to have" solution for businesses aiming to optimi
 
 
 
-Here is the documentation
+Here is our support url
 ----------------------------
 
-https://ultimatefosters.com/docs/ultimatepos
+https://support.mahimamultipurpose.com.np/knowledge-base
 
 
-
-What will you learn
+What will you learn & skillset needed
 ---------------------
 
-1. Front End & Backend Design & Development(D&D)
-2. Database Design & Development(D&D)
-3. Security Design & Development(D&D)
-4. Personal Development & Well-Design Mindset(D&D)
+1. Operation Manager & HRM
+2. Project & Product Manager
+3. Digital Marketing, Lead Generation & Customer Support
+4. Front End, Backend & Database Design & Development
+5. Data & QA Analyst
+6. Security Design & Development
+7. Legal & Financial Advisor  
 
 
 

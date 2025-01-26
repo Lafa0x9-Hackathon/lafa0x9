@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1QBVyiVP-Rtn7CdIrg28njI8c-cpheZah?usp=dri
 
 Codebase Repo URL:
 ------------
-<a href = "https://github.com/Lafa0x9-Hackathon/mangalmaya-frontend" target="_blank">Mangalmaya</a> - This link is reserved for members only
+<a href = "https://github.com/Lafa0x9-Hackathon/mangalmaya-frontend" target="_blank">Mangalmaya</a> 
 
 Technology Used :
 ------------

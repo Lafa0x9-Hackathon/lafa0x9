@@ -1,6 +1,6 @@
 Project Name
 ------------
-Lafa-design-guideline
+Lafa CRM, HRM, Dev & Design Guideline 
 
 Live URL: 
 ------------
@@ -8,9 +8,9 @@ coming soon
 
 Development URL:
 ------------
-coming soon
+https://crm-hrm-dev.ssomai.com.np/
 
-UI/UX Development URL:
+UI/UX Development of Lafa Design Guideline in Figma URL:
 ------------
 https://www.figma.com/file/VDHFMjwVSiysyTWf1QB7UA/Lafa-Design-System?type=design&node-id=0-1&mode=design&t=eXIzqCdWr4RzTNYc-0
 
@@ -18,14 +18,14 @@ Project Files etc URL:
 ------------
 coming soon
 
-Git Repository:
+Lafa Design Guideline - Git Repository:
 ------------
 <a href = "https://github.com/Lafa0x9-Hackathon/lafa-design-guideline" target="_blank">Lafa-design-guideline</a> 
 
 
 Technology Used:
 ------------
-Reactjs
+Codeigniter, Reactjs
 
 
 Who Are We 
@@ -52,10 +52,15 @@ Here is the documentation
 
 coming soon
 
-What will you learn
+
+What will you learn & skillset needed
 ---------------------
-1. Front/Backend App Design & Development
-2. Database Design & Development
-3. Security Design & Development
-4. Personal Development & Well-Design Mindset
+
+1. Operation Manager & HRM
+2. Project & Product Manager
+3. Digital Marketer
+4. Front End, Backend & Database Design & Development
+5. Data Analyst
+6. Security Design & Development
+7. Legal & Financial Advisor  
 
