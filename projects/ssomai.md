@@ -6,7 +6,7 @@ Live URL:
 ------------
 https://ssomai.com.np/
 
-Development URL : 
+Development Agent URL : 
 -----------
 https://sewa.ssomai.com.np/
 
