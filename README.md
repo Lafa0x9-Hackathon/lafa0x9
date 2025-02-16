@@ -39,8 +39,13 @@ Sponsoring is an act of giving in a different fashion. 🌱
 
 You can support us using any of the methods below:
 <br>
-[Github Sponsors] <a href="https://github.com/sponsors/Lafa-Hackathon">
-  <img src="https://camo.githubusercontent.com/794942931e6fec2e05b611350654793d70cbb7479db5d9e9706d38e5cf040b21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73706f6e736f722d3330333633443f7374796c653d666f722d7468652d6261646765266c6f676f3d4769744875622d53706f6e736f7273266c6f676f436f6c6f723d237768697465" data-canonical-src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" style="max-width: 100%;">
+
+<a href="https://ssomai.com.np/support-us" target="_blank" rel="noopener">
+ <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via SSOMAI Collective Hub
+</a>
+<br><br>
+<a href="https://paypal.me/surensomai" target="_blank" rel="noopener">
+ <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> 
 </a>
 
 
