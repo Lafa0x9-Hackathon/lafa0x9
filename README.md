@@ -53,7 +53,7 @@ SSOMAI - Open Source Hub(ssomai.com.np) <br>
 Code in Nepal(codeinnepal.com) <br>
 Mahima Multipurpose Initiatives (mahimamultipurpose.com.np)
 
-🎓 For Scholarship Opportunity! Do you excel in Communication, Mentorship, Project Leadership or Interviewing? We are excited to offer a Full Scholarship Program for standout talents! Send your CV to info@ssomai.com.np and take the first step towards joining our innovative community.
+🎓 For Scholarship Opportunity! Do you excel in Communication, Mentorship, Project Leadership or Interviewing? We are excited to offer a Full Scholarship Program for standout talents! Send your CV to hello@ssomai.com.np and take the first step towards joining our innovative community.
 
 🔍 We’re Looking For Leaders Like You! Don’t miss this chance to enhance your skills and grow with a vibrant team.
 
