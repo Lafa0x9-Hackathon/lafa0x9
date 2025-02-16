@@ -54,7 +54,7 @@ You can support us using any of the methods below:
 🤝 Meet Our Collaborative Partners:
 
 Hello Business!(hbs.com.np) <br>
-SSOMAI - Open Source Hub(ssomai.com.np) <br>
+SSOMAI - Open Collective Hub(ssomai.com.np) <br>
 Code in Nepal(codeinnepal.com) <br>
 Mahima Multipurpose Initiatives (mahimamultipurpose.com.np)
 
