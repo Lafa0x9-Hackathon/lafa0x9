@@ -77,7 +77,7 @@ https://forms.gle/meEnMfyGTwXAt16HA
         <td align="center" valign="top">
             <img width="125" height="125" src="https://avatars.githubusercontent.com/u/23354232?v=4">
             <br>
-            <strong>Lafa Singh</strong>
+            <strong>Lafa</strong>
             <br>
             <a href="https://github.com/mrlafa">@lafa</a>
         </td>
@@ -98,9 +98,9 @@ https://forms.gle/meEnMfyGTwXAt16HA
         <td align="center" valign="top">
             <img width="125" height="125" src="https://avatars.githubusercontent.com/u/9947912?v=4">
             <br>
-            <strong>Surendra Kumar Somai - Author </strong>
+            <strong>SKS - Author </strong>
             <br>
-            <a href="https://github.com/surendrasomai">@surendra</a>
+            <a href="https://github.com/sks-666">@sks-666</a>
             <br>
             <a href="https://paypal.me/surensomai">
             <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> </a>
